@@ -1,0 +1,6 @@
+
+
+task copy(type: Copy) {
+    from 'OM/src'
+    into 'dest'
+}
